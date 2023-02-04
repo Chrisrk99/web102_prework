@@ -23,10 +23,11 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='http://i.imgur.com/a/LPwp7N9' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![walkthrough_SFC](https://user-images.githubusercontent.com/91501556/216788379-e21e9b34-23c0-4b00-8844-d8a5d54ae9a1.gif)
 
 
-GIF created with RecordIt 
+
+GIF created with ScreenToGif
 
 
 ## Notes
