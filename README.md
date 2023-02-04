@@ -22,7 +22,7 @@ The following **optional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
-https://imgur.com/a/LPwp7N9
+
 <img src='https://recordit.co/TUjH5MjLno' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
